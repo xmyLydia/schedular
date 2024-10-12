@@ -1,7 +1,7 @@
 # schedular
-task schedular backend task, should provide REST APIs
+task schedular backend task
 ## Technologies
- - Java
- - Sprint boot
- - Angular
- - Postgresql
+- Java
+- Sprint boot
+- Angular
+- Postgresql
